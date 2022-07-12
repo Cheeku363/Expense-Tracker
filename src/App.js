@@ -1,3 +1,4 @@
+//Divya--- changed app.js file
 import styled from "styled-components"
 import HomeComponent from "./modules/home"
 const Container = styled.div`
